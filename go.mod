@@ -1,3 +1,3 @@
-module example.com/user/hello
+module github.com/allkaa/hello
 
 go 1.18
